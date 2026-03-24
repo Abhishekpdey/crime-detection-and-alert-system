@@ -79,10 +79,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### Open in Browser
-
-Visit: [http://localhost:5000](http://localhost:5000)
-
 ---
 
 ## 🧪 How It Works
@@ -135,18 +131,3 @@ This system is a prototype and should **not be used in production** or for legal
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ---
-
-## 📧 Contact
-
-**Muthamizh Selvan**  
-📫 GitHub: [@MuthamizhSelvan01](https://github.com/MuthamizhSelvan01)
-
----
-
-## ⭐ Show Your Support
-
-If you like this project, consider starring ⭐ the repo or contributing! 🙌
-
----
-
-Let me know if you'd like me to generate a `requirements.txt` as well or tailor the README further for deployment on platforms like Heroku or Render.
